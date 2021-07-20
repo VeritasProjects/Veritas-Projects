@@ -17,16 +17,26 @@ All too common complaint was not enough rewards or incentives for investors to h
 
 sells
 
-7.5% dev tax – not in tokens so the chart impact is avoided
-17.5 % kraken wallet – Proper use of buybacks, holding the floor at key levels, and pumping to new ATH. 
+7.5% dev tax 
+
+17.5 % kraken wallet 
+
 Using a modified version of one of the best punishment systems in the game, we believe this addresses the problems which plagued Whale Wallet predecessors. No one likes it when investors chase pumps and then promptly seek to dump on the loyal investors who believe in what we are doing. This enables us to more efficiently hold floors while still allowing profits to be taken without causing the chart to freefall.
+
 Max 2.9% price impact limit on sells  
+
 1st sell – 7.5% dev tax 17.5% whale wallet tax
+
 (1 hour)
+
 2nd sell – 10.5% dev tax 19.5% whale wallet tax
+
 (2 hours) 
+
 3rd sell – 10% dev tax 25% whale wallet tax
+
 (3hours) 
+
 4th sell – 10% dev tax 25% whale wallet tax
 
 sell timer resets 24 hours after the first sell and there is a maximum of 4 sells within any 24 hour window
