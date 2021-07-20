@@ -1,5 +1,5 @@
 # Veritas-Projects
-compilation of all VP whitepapers
+
 Kraken Whitepaper
 Project Kraken 
 
