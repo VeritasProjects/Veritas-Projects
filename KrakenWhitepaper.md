@@ -8,8 +8,11 @@ Project Kraken was inspired by the popular “buyback wallet” trend. Our team 
 buys
 
 All too common complaint was not enough rewards or incentives for investors to hold and not simply join in on the dump following buybacks. The reflection to all buyers will prove to be a lucrative perk for those holding through Kraken buybacks and will be further amplified with our “Kraken Events”
+
 5% -redistribution – huge rewards from Kraken buyback and FOMO
+
 5% - burn – adds a little more incentive to hold from those chasing the pump
+
 5% - lottery wallet – Daily draws with plenty of variations to make sure everyone has chances to win
 
 sells
