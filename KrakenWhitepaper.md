@@ -1,7 +1,7 @@
 # Veritas-Projects
 
-Kraken Whitepaper
-Project Kraken 
+Project Kraken Whitepaper
+
 
 Project Kraken was inspired by the popular “buyback wallet” trend. Our team dove into the communities in which this tokenomic was being employed and gathered up countless examples as to what you all wanted to see used .We have worked through the feedback in order  to fix the broken mechanics in what is otherwise a solid theory and this is what the team came up with.
 
