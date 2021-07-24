@@ -15,31 +15,31 @@ All too common complaint was not enough rewards or incentives for investors to h
 
 sells
 
-8% dev tax 
+10% dev tax 
 
-17% kraken wallet 
+20% kraken wallet 
 
 Using a modified version of one of the best punishment systems in the game, we believe this addresses the problems which plagued Whale Wallet predecessors. No one likes it when investors chase pumps and then promptly seek to dump on the loyal investors who believe in what we are doing. This enables us to more efficiently hold floors while still allowing profits to be taken without causing the chart to freefall.
 
 Max 2% price impact limit on sells  
 
-1st sell – 8% dev  17% kraken wallet 
+1st sell – 10% dev  20% kraken wallet 
 
 (1 hour)
 
-2nd sell – 10% dev tax 25% whale wallet 
+2nd sell – 8% dev tax 17% whale wallet 
 
 (2 hours) 
 
-3rd sell – 10% dev  25% kraken wallet 
+3rd sell – 10% dev  20% kraken wallet 
 
 (3hours) 
 
-4th sell – 10% dev  20% kraken wallet 
+4th sell – 8% dev  17% kraken wallet 
 
 sell timer resets 24 hours after the first sell and there is a maximum of 4 sells within any 24 hour window
 
-The kraken wallet will also be used to seek potential promotional opportunities, community giveaways, and special events held throughout the lifespan of  Kraken
+The kraken wallet will also be used to seek potential promotional opportunities, community giveaways, and special events held throughout the lifespan of Kraken 
 
 
 ENDGAME
