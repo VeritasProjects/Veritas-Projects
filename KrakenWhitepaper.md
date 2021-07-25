@@ -49,4 +49,5 @@ The kraken wallet will also be used to seek potential promotional opportunities,
 
 
 ENDGAME
+
 Kraken has a lifespan and is never intended to continue to a point beyond the initial liquidity lock of 30 days. What makes us different is we have plans in place to make sure everyone who stuck around until the end will have an opportunity to sell their positions at a lower tax rate instead of being forced to sell at a loss due to frustration or a project having no exit strategy. We want to offer everyone plenty of chances to take profit along the way and our “endgame” is a way of us saying thank you to the everyone who supported us along the way.  
