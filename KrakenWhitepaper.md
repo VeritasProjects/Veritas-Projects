@@ -32,7 +32,7 @@ Max 2% price impact limit on sells
 
 (1 hour)
 
-2nd sell – 8% dev tax 17% whale wallet 
+2nd sell – 8% dev tax 17% kraken wallet 
 
 (2 hours) 
 
